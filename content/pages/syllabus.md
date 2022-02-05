@@ -34,14 +34,75 @@ This class is also includes a Spring Break workshop in New Orleans. Fieldwork an
 
 Class requirements include extensive reading, ongoing assignments related to development of the project, active class participation, participation in the field trips, ongoing communication with the client, and active involvement and contribution to the team project. Here are the details:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation/attendance | 15% |
-| Peer evaluations | 5% |
-| Research reports and analysis | 20% |
-| Field journal assignments | 20% |
-| Posters/presentations | 10% |
-| Final group project report/presentation | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation/attendance
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Peer evaluations
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research reports and analysis
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Field journal assignments
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Posters/presentations
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final group project report/presentation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Attendance is absolutely mandatory. Discussions and targeted presentations will form the heart of the class and determine the direction of exploration for you and the instructors alike. As a project-based course, we will introduce a number of tools that will allow you to explore the city in novel ways. This exploration and the path of the class as a whole will be dependent on your presence and participation.
 
