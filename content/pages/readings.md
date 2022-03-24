@@ -88,7 +88,7 @@ New Orleans today
 {{< tdopen >}}
 
 
-Wong, Elaine. "Rewinding to the Past: New Orleans Architecture." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/sigus/www/NEW/files/Rewinding_New_Orleans.pdf))
+Wong, Elaine. "Rewinding to the Past: New Orleans Architecture." ([PDF](http://web.mit.edu/sigus/www/NEW/files/Rewinding_New_Orleans.pdf))
 
 "A Strategy for Rebuilding New Orleans, Louisiana." Urban Land Institute. November 12-18, 2005.
 
@@ -161,7 +161,7 @@ Zusy, Cathie. "Community Engagement with History: If This House Could Talk...;" 
 Writing successful memos
 {{< tdclose >}}
 {{< tdopen >}}
-Memo writing guidelines (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit11_027s11_memo))
+Memo writing guidelines ([PDF]({{< baseurl >}}/resources/mit11_027s11_memo))
 {{< tdclose >}}
 
 {{< trclose >}}

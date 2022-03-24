@@ -9,7 +9,7 @@ Writing Resources
 
 [Formal report components](http://www.mccombs.utexas.edu/faculty/kristie.loescher/assignments/project report.htm)
 
-Style Manual, Second Edition: For Preparing Contract and Consultant Reports for the California Energy Commission. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.185.110&rep=rep1&type=pdf))
+Style Manual, Second Edition: For Preparing Contract and Consultant Reports for the California Energy Commission. ([PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.185.110&rep=rep1&type=pdf))
 
 [Writing for North American Business Audience](http://owl.english.purdue.edu/owl/resource/651/01/)
 
@@ -48,7 +48,7 @@ City to City New Orleans neighborhood guide ([PDF]({{< baseurl >}}/resources/mit
 
 [Boston Redevelopment Authority](http://www.bostonredevelopmentauthority.org/Home.aspx)
 
-St. Claude in Common: Prepared by the students of Revitalizing Urban Main Street, MIT Department of Urban Studies + Planning, Spring 2009. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 22.6MB](https://planning-org-uploaded-media.s3.amazonaws.com/legacy_resources/awards/studentprojects/2010/pdf/stclaudeincommon.pdf))
+St. Claude in Common: Prepared by the students of Revitalizing Urban Main Street, MIT Department of Urban Studies + Planning, Spring 2009. ([PDF - 22.6MB](https://planning-org-uploaded-media.s3.amazonaws.com/legacy_resources/awards/studentprojects/2010/pdf/stclaudeincommon.pdf))
 
 Park, Haeyoun. "[Population Declinde in New Orleans](http://www.nytimes.com/interactive/2011/02/03/us/0203-nat-census-orleans.html)." _The New York Times,_ February 3, 2011.
 
