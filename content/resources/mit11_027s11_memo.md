@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-new-orleans-spring-2011/f9f89f1b627cd990697490e477045190_MIT11_027S11_memo.pdf
 file_type: application/pdf
+parent_uid: 5e7dafe4-8f73-8fc4-0cba-aac1b7f74596
 resourcetype: Document
 title: Memo Writing Guidelines
 uid: f9f89f1b-627c-d990-6974-90e477045190
